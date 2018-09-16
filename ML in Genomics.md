@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 ##### [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
 
 
