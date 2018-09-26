@@ -6,6 +6,19 @@
 
 # Long Reads Sequencing
 
+### [The impact of third generation genomic technologies on plant genome ...](https://www.sciencedirect.com/science/article/pii/S1369526616301315)
+
+https://www.sciencedirect.com/science/article/pii/S1369526616301315
+
+```markdown
+# nice review of bionano, Hi-C and 10Xgenome
+
+```
+
+
+
+
+
 ### [Single-molecule DNA sequencing technologies for future genomics research](https://www.sciencedirect.com/science/article/pii/S0167779908002047)
 
 PK Gupta - Trends in biotechnology, 2008 - Elsevier
@@ -64,6 +77,12 @@ it requires a rather specific set of Illumina paired-end
 `result`
 # suggest 40X 
 ```
+
+
+
+Scaffolding
+
+
 
 
 
@@ -286,7 +305,7 @@ RK Varshney, VK Singh, JM Hickey, X Xun… - Trends in **plant** …, 2016 - Els
 
 [qxs onenote](https://monsanto365-my.sharepoint.com/personal/evrpa_monsanto_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fevrpa_monsanto_com%2FDocuments%2FXINSHUAI%20%40%20Monsanto&wd=target%28Genomics%20Working%20group%20meeting.one%7C05470CAA-18C0-4D43-99B2-C4C53CCD1112%2FLong%20Reads%20Papers%7CB778F283-E755-476C-849C-A040F6E98E9F%2F%29)
 
-1. [Piercing the dark matter: bioinformatics of **long-range** sequencing and mapping](https://www.nature.com/articles/s41576-018-0003-4?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrg%2Frss%2Fcurrent+%28Nature+Reviews+Genetics+-+Issue%29)
+1. [**Piercing the dark matter: bioinformatics of  long-range sequencing and mapping**](https://www.nature.com/articles/s41576-018-0003-4?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrg%2Frss%2Fcurrent+%28Nature+Reviews+Genetics+-+Issue%29)
 
    ```markdown
    Note:

@@ -104,6 +104,8 @@ http://www.plantcell.org/content/15/10/2236.short
 
 Maize genome duplication vs Sorghum
 
+
+
 ## [Close split of sorghum and maize genome progenitors](http://genome.cshlp.org/content/14/10a/1916.short)
 
 Z Swigoňová, J Lai, [J Ma](https://scholar.google.com/citations?user=hGFwT5sAAAAJ&hl=en&oi=sra), [W Ramakrishna](https://scholar.google.com/citations?user=vlg9obIAAAAJ&hl=en&oi=sra)… - Genome …, 2004 - genome.cshlp.org
@@ -271,6 +273,71 @@ F Li, G Fan, [C Lu](https://scholar.google.com/citations?user=S3MeNKgAAAAJ&hl=en
 
 
 # Canola
+
+### Genome-wide selection footprints and deleterious variations in young Asian allotetraploid rapeseed
+
+NY7
+
+Qiu Jie
+
+https://www.biorxiv.org/content/biorxiv/early/2018/09/09/412551.full.pdf
+
+```markdown
+Ningyou7, Aisan rapeseed
+
+Historical introgression 
+first historical introgression of B. rapa dramatically broadened the
+allelic pool of Asian B. napus, but decreased their deleterious variations
+
+The secondary historical introgression of European rapeseed (canola-quality) has reshaped Asian rapeseed into two groups, accompanied by an increase in genetic load
+
+Intro开始写的模糊，没有清晰的主题
+
+
+In China,
+the local B. rapa oilseed crop had been cultivated for more than a thousand years (Li,
+2001), but from the 1950s this crop was extensively replaced by B. napus
+“Shengliyoucai” (SL) types, which included a series of cultivars and derived lines that
+had been developed following selective breeding (Liu, 2000). Many distinct cultivars
+were further derived based on SL with introgression of B. rapa, an approach
+frequently adopted to broaden the genetic diversity and improve the local adaptation
+of B. napus in Asia (Zhang et al., 2014)
+
+In the 1970s, Asian
+rapeseed was further significantly improved by the introgression of European ‘double
+low’ alleles which had been discovered in Canada and then re-introduced to European
+rapeseed lines, providing low seed glucosinolate and erucic acid. 
+
+# Tapidor 
+
+# Darmor
+
+# ZS11 
+
+
+```
+
+### [Assembly and comparison of two closely related *Brassica napus* genomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.12742)
+
+[PE Bayer](https://scholar.google.co.in/citations?user=GOL15xQAAAAJ&hl=en&oi=sra), [B Hurgobin](https://scholar.google.co.in/citations?user=5xBWe1gAAAAJ&hl=en&oi=sra), [AA Golicz](https://scholar.google.co.in/citations?user=KR_W0jIAAAAJ&hl=en&oi=sra)… - Plant biotechnology …, 2017 - Wiley Online Library
+
+Tapidor 
+
+<http://appliedbioinformatics.com.au/index.php/Darmor_Tapidor>
+
+
+
+### [The high‐quality genome of *Brassica napus* cultivar 'ZS11' reveals the introgression history in semi‐winter morphotype](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13669)
+
+F Sun, G Fan, Q Hu, Y Zhou, M Guan, C Tong… - The Plant …, 2017 - Wiley Online Library
+
+zs11
+
+#####  xawz3download
+
+http://ocri-genomics.org/Brassia_napus_genome_ZS11/
+
+
 
 
 

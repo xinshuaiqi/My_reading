@@ -6,9 +6,96 @@
 
 
 
-## High cited papers by time
+# Genome editing crop
 
-## genome editing
+
+
+### [Towards social acceptance of plant breeding by **genome editing **](https://www.sciencedirect.com/science/article/pii/S1360138515000291) @@
+
+M Araki, T Ishii - Trends in plant science, 2015 - Elsevier
+
+
+
+### [Advancing **crop** transformation in the era of **genome editing**](http://www.plantcell.org/content/28/7/1510.short) @@
+
+F Altpeter, [NM Springer](https://scholar.google.com/citations?user=11RguYAAAAAJ&hl=en&oi=sra), [LE Bartley](https://scholar.google.com/citations?user=ymob_vsAAAAJ&hl=en&oi=sra), AE Blechl… - The Plant …, 2016 - Am Soc Plant Biol
+
+```markdown
+# two steps of plant transformation
+1) DNA to plant cell 
+2) DNA into genome
+results in random integration of new sequences into plant genomes.
+
+Regenerate plant from the transformed tissues. 
+
+
+* nonhomologous end joining (NHEJ)
+* homologous recombination (HR)
+	*  it requires simultaneous delivery of both the SSN and the repair template
+
+```
+
+### [Enabling plant synthetic biology through genome engineering](https://www.sciencedirect.com/science/article/pii/S0167779914002376)
+
+NJ Baltes, DF Voytas - Trends in biotechnology, 2015 - Elsevier
+
+
+
+
+
+### [Precision genome engineering and agriculture: opportunities and regulatory challenges](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001877)
+
+DF Voytas, C Gao - PLoS biology, 2014 - journals.plos.org
+
+
+
+
+
+# **Examples**
+
+### [Regulatory uncertainty over **genome editing**](https://www.nature.com/articles/nplants201411?beta=false)
+
+[HD Jones](https://scholar.google.com/citations?user=5TXBJPAAAAAJ&hl=en&oi=sra) - Nature plants, 2015 - nature.com
+
+### [Targeted **genome editing** of sweet orange using Cas9/sgRNA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093806)
+
+[H Jia](https://scholar.google.com/citations?user=slY1BF4AAAAJ&hl=en&oi=sra), [N Wang](https://scholar.google.com/citations?user=Owf0xG8AAAAJ&hl=en&oi=sra) - PloS one, 2014 - journals.plos.org
+
+
+
+# Less useful
+
+### [Targeted **genome** modification of **crop** plants using a CRISPR-Cas system](https://www.nature.com/nbt/journal/v31/n8/full/nbt.2650.html)
+
+[Q Shan](https://scholar.google.com/citations?user=1uvVEuwAAAAJ&hl=en&oi=sra), [Y Wang](https://scholar.google.com/citations?user=sZUNRaQAAAAJ&hl=en&oi=sra), J Li, Y Zhang, K Chen, Z Liang… - Nature …, 2013 - nature.com
+
+```markdown
+ZFN: zinc finger nucleases based 
+TALEN:Transcription activator like effector nucleases
+CRISPR: RNA-guided endonuclease to perform sequence-specific genome editing
+```
+
+
+
+### [Multiplex and homologous recombination–mediated **genome editing** in *Arabidopsis* and *Nicotiana benthamiana* using guide RNA and Cas9](https://www.nature.com/articles/nbt.2654.pdf?origin=ppub)
+
+[JF Li](https://scholar.google.com/citations?user=F3WNkWgAAAAJ&hl=en&oi=sra), [JE Norville](https://scholar.google.com/citations?user=cxkQdzkAAAAJ&hl=en&oi=sra), J Aach, M McCormack, [D Zhang](https://scholar.google.com/citations?user=cdzVY_QAAAAJ&hl=en&oi=sra)… - Nature …, 2013 - nature.com
+
+- homologous recombination–based gene replacement
+
+
+
+### [RNA-guided **genome editing** for target gene mutations in wheat](http://www.g3journal.org/user/logout?current=node/459595)
+
+[SK Upadhyay](https://scholar.google.com/citations?user=Wpt8dG0AAAAJ&hl=en&oi=sra), [J Kumar](https://scholar.google.com/citations?user=blaTkqkAAAAJ&hl=en&oi=sra), [A Alok](https://scholar.google.com/citations?user=Xn9kKIQAAAAJ&hl=en&oi=sra), R Tuli - G3: Genes, Genomes …, 2013 - g3journal.org
+
+
+
+
+
+### [RNA-guided **genome editing** in plants using a CRISPR–Cas system](https://www.sciencedirect.com/science/article/pii/S167420521460277X)
+
+K Xie, [Y Yang](https://scholar.google.com/citations?user=Rgvd2Q8AAAAJ&hl=en&oi=sra) - Molecular plant, 2013 - Elsevier
 
 ### [Targeted **genome editing** across species using ZFNs and TALENs](http://science.sciencemag.org/content/333/6040/307.short)
 
@@ -37,56 +124,4 @@ WY Hwang, [Y Fu](https://scholar.google.com/citations?user=NDKarA0AAAAJ&hl=en&oi
 ### [RNA-programmed **genome editing** in human cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557905/)
 
 M Jinek, [A East](https://scholar.google.com/citations?user=PPqbvvUAAAAJ&hl=en&oi=sra), A Cheng, [S Lin](https://scholar.google.com/citations?user=95-e9ogAAAAJ&hl=en&oi=sra), E Ma, [J Doudna](https://scholar.google.com/citations?user=YO5XSXwAAAAJ&hl=en&oi=sra) - elife, 2013 - ncbi.nlm.nih.gov
-
-
-
-## genome editing crop
-
-### [Targeted **genome** modification of **crop** plants using a CRISPR-Cas system](https://www.nature.com/nbt/journal/v31/n8/full/nbt.2650.html)
-
-[Q Shan](https://scholar.google.com/citations?user=1uvVEuwAAAAJ&hl=en&oi=sra), [Y Wang](https://scholar.google.com/citations?user=sZUNRaQAAAAJ&hl=en&oi=sra), J Li, Y Zhang, K Chen, Z Liang… - Nature …, 2013 - nature.com
-
-
-
-### [Multiplex and homologous recombination–mediated **genome editing** in *Arabidopsis* and *Nicotiana benthamiana* using guide RNA and Cas9](https://www.nature.com/articles/nbt.2654.pdf?origin=ppub)
-
-[JF Li](https://scholar.google.com/citations?user=F3WNkWgAAAAJ&hl=en&oi=sra), [JE Norville](https://scholar.google.com/citations?user=cxkQdzkAAAAJ&hl=en&oi=sra), J Aach, M McCormack, [D Zhang](https://scholar.google.com/citations?user=cdzVY_QAAAAJ&hl=en&oi=sra)… - Nature …, 2013 - nature.com
-
-
-
-### [RNA-guided **genome editing** in plants using a CRISPR–Cas system](https://www.sciencedirect.com/science/article/pii/S167420521460277X)
-
-K Xie, [Y Yang](https://scholar.google.com/citations?user=Rgvd2Q8AAAAJ&hl=en&oi=sra) - Molecular plant, 2013 - Elsevier
-
-
-
-### [Towards social acceptance of plant breeding by **genome editing**](https://www.sciencedirect.com/science/article/pii/S1360138515000291)
-
-M Araki, T Ishii - Trends in plant science, 2015 - Elsevier
-
-
-
-### [Advancing **crop** transformation in the era of **genome editing**](http://www.plantcell.org/content/28/7/1510.short)
-
-F Altpeter, [NM Springer](https://scholar.google.com/citations?user=11RguYAAAAAJ&hl=en&oi=sra), [LE Bartley](https://scholar.google.com/citations?user=ymob_vsAAAAJ&hl=en&oi=sra), AE Blechl… - The Plant …, 2016 - Am Soc Plant Biol
-
-
-
-### [RNA-guided **genome editing** for target gene mutations in wheat](http://www.g3journal.org/user/logout?current=node/459595)
-
-[SK Upadhyay](https://scholar.google.com/citations?user=Wpt8dG0AAAAJ&hl=en&oi=sra), [J Kumar](https://scholar.google.com/citations?user=blaTkqkAAAAJ&hl=en&oi=sra), [A Alok](https://scholar.google.com/citations?user=Xn9kKIQAAAAJ&hl=en&oi=sra), R Tuli - G3: Genes, Genomes …, 2013 - g3journal.org
-
-
-
-**examples**
-
-### [Regulatory uncertainty over **genome editing**](https://www.nature.com/articles/nplants201411?beta=false)
-
-[HD Jones](https://scholar.google.com/citations?user=5TXBJPAAAAAJ&hl=en&oi=sra) - Nature plants, 2015 - nature.com
-
-### [Targeted **genome editing** of sweet orange using Cas9/sgRNA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093806)
-
-[H Jia](https://scholar.google.com/citations?user=slY1BF4AAAAJ&hl=en&oi=sra), [N Wang](https://scholar.google.com/citations?user=Owf0xG8AAAAJ&hl=en&oi=sra) - PloS one, 2014 - journals.plos.org
-
-
 
