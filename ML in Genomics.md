@@ -84,6 +84,36 @@ A curated list of awesome deep learning applications in the field of **computati
  
 ```
 
+### [Deep learning for computational biology](http://msb.embopress.org/content/12/7/878.abstract)
+
+[C Angermueller](https://scholar.google.com/citations?user=OXZC0mQAAAAJ&hl=en&oi=sra), T Pärnamaa, [L Parts](https://scholar.google.com/citations?user=ktEf4ZUAAAAJ&hl=en&oi=sra)… - Molecular systems …, 2016 - msb.embopress.org
+
+```markdown
+# the most accurate prediction of gene expression levels is currently made from a broad set of epigenetic features using sparse linear models (Karlic et al, 2010; Cheng et al, 2011) or random forests (Li et al, 2015)
+
+Most of these applications can be described within the canonical machine learning workflow, which involves four steps: 
+* data cleaning and pre‐processing, 
+* feature extraction, 
+* model fitting and 
+* evaluation 
+
+A major recent advance in machine learning is automating this critical step by learning a suitable representation of the data with deep artificial neural networks
+
+Briefly, a deep neural network takes the raw data at the lowest (input) layer and transforms them into increasingly abstract feature representations by successively combining outputs from the preceding layer in a data‐driven manner, encapsulating highly complicated functions in the process
+
+depth of the layer X the width of the layer
+
+backward propagation algorithm ultimately enabling efficient training of neural networks using stochastic gradient descent
+
+
+其他的DNN变形
+convolutional neural networks, which are widely used for **modelling images**
+recurrent neural networks for **sequential data**
+restricted Boltzmann machines and autoencoders for **unsupervised learning**
+
+comprehensive background on all technical details, which can be found in the more specialized literature (Bengio, 2012; Bengio et al, 2013; Deng, 2014; Schmidhuber, 2015; Goodfellow et al, 2016). 
+```
+
 
 
 
