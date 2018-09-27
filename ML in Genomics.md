@@ -1,28 +1,18 @@
 # ML in genomics
 
-
-
-##### [*Machine learning** applications in **genetics** and **genomics**](https://www.nature.com/articles/nrg3920)
-
-[MW Libbrecht](https://scholar.google.com/citations?user=O4SMk-sAAAAJ&hl=en&oi=sra), [WS Noble](https://scholar.google.com/citations?user=plt2_DsAAAAJ&hl=en&oi=sra) - Nature Reviews **Genetics**, 2015 - nature.com
+[TOC]
 
 
 
-##### [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
+
+
+## [Wiki： Machine learning in bioinformatics](https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics)
 
 
 
-##### [Wiki： Machine learning in bioinformatics](https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics)
 
 
-
-##### [Deep learning meets genome biology](https://www.oreilly.com/ideas/deep-learning-meets-genome-biology)
-
-An interview with Brendan Frey about realizing new possibilities in genomic medicine.
-
-
-
-### People in ML
+## People in ML
 
 ##### Yann LeCun
 
@@ -64,11 +54,11 @@ A curated list of awesome deep learning applications in the field of **computati
 
 ## Papers:
 
-[Evolutionarily informed deep learning methods: Predicting transcript abundance from DNA sequence](https://www.biorxiv.org/content/early/2018/07/19/372367)
+##### [Evolutionarily informed deep learning methods: Predicting transcript abundance from DNA sequence](https://www.biorxiv.org/content/early/2018/07/19/372367)
 
 
 
-[Deep Learning for Population Genetic Inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004845)
+##### [Deep Learning for Population Genetic Inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004845)
 
 ```
  * jointly inferring natural selection and demography
@@ -84,7 +74,7 @@ A curated list of awesome deep learning applications in the field of **computati
  
 ```
 
-### [Deep learning for computational biology](http://msb.embopress.org/content/12/7/878.abstract)
+##### [Deep learning for computational biology](http://msb.embopress.org/content/12/7/878.abstract)
 
 [C Angermueller](https://scholar.google.com/citations?user=OXZC0mQAAAAJ&hl=en&oi=sra), T Pärnamaa, [L Parts](https://scholar.google.com/citations?user=ktEf4ZUAAAAJ&hl=en&oi=sra)… - Molecular systems …, 2016 - msb.embopress.org
 
@@ -116,7 +106,19 @@ comprehensive background on all technical details, which can be found in the mor
 
 
 
+##### [*Machine learning** applications in **genetics** and **genomics**](https://www.nature.com/articles/nrg3920)
 
+[MW Libbrecht](https://scholar.google.com/citations?user=O4SMk-sAAAAJ&hl=en&oi=sra), [WS Noble](https://scholar.google.com/citations?user=plt2_DsAAAAJ&hl=en&oi=sra) - Nature Reviews **Genetics**, 2015 - nature.com
+
+
+
+##### [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
+
+
+
+##### [Deep learning meets genome biology](https://www.oreilly.com/ideas/deep-learning-meets-genome-biology)
+
+An interview with Brendan Frey about realizing new possibilities in genomic medicine.
 
 
 
@@ -127,3 +129,16 @@ comprehensive background on all technical details, which can be found in the mor
 
 
 [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?ie=UTF8&qid=1537500853&sr=8-1&keywords=the+elements+of+statistical+learning&dpID=41aQrQaPseL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
+
+
+
+## Tools
+
+[pysster](https://github.com/budach/pysster): 
+
+	 training and interpretation of convolutional neural networks on biological sequence data
+
+	**One_Hot_Encoder**
+
+
+
