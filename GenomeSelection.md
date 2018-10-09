@@ -2,7 +2,83 @@
 
 [TOC]
 
-### [**Genomic** selection for **crop** improvement](https://dl.sciencesocieties.org/publications/cs/abstracts/49/1/1)
+### [Genomic selection methods for crop improvement: Current status and  prospects](https://www.sciencedirect.com/science/article/pii/S2214514118300400) August 2018
+
+https://www.sciencedirect.com/science/article/pii/S2214514118300400
+
+```markdown
+With marker and phenotype information from observed populations, genomic selection (GS) can be used to establish associations between markers and phenotypes. It aims to use genome-wide markers to estimate the effects of all loci and thereby predict the genetic values of untested populations, so as to achieve more comprehensive and reliable selection and to accelerate genetic progress in crop breeding. 
+
+marker ~ (QTL) ~ pheno
+
+# challenges
+- number of markers is much higher than the number of phenotypic observations
+	- GBLUP, Bayes, and machine learning
+- estimation of non-additive genetic effects
+	- 
+
+- combined analysis of multiple traits or multiple environments
+
+
+# History
+- selection one trait
+- Selection index: multiple traits
+- BLUP 1970
+- 1990 Marker assisted selection (Molecular Breeding)。 BUT only suitable for traits controled by a small number of traits, NOT success for Quantitative traits
+- GWS, upgraded MAS. 
+	- GEBV: Genomic estimated breeding value
+
+# Method
+Training population: marker, phenotype 
+Generate model
+Predict unobserved individual: The average yield of the top 100 showed a 16% increase compared with the average yield of all potential hybrids.
+
+
+
+# Additive effect only model 
+estimate Breeding Value
+
+non additive effect (dominance, epistasis) are often as Random ENV effects, as noise. 
+
+# Additive + non-additive model 
+In SOME population, this method is better
+When non-additive effects are significant 
+
+
+
+# Multiple traits + multiple ENV
+multiple correlated trait: pleiotropy
+G X E
+
+# how to get more accurate results
+**sample size** 
+genetic relationship with model 
+
+**marker density**
+
+Su et al. [76] investigated genomic prediction using medium-density and high-density marker panels. **When marker density increased from 54 K to 777 K, prediction accuracy increased only 0.5–1.0%.** 
+
+In short, with an increase in marker density, the accuracy of GS is not proportional to the cost.
+
+**The length of haplotypes** may also affect accuracy  | **LD**
+ If GS is applied for many generations, the effect of the markers does not change but the proportion of the genetic variance explained by them declines, and accuracy may decrease rapidly in subsequent generations after estimation owing to decay of genetic relationships 
+
+genetic architecture of traits: heritability and distribution of causal genes
+
+# genomic + transcriptomic + metabolomic 
+
+
+
+
+```
+
+
+
+
+
+
+
+### [Genomic** selection for **crop** improvement](https://dl.sciencesocieties.org/publications/cs/abstracts/49/1/1)
 
 [EL Heffner](https://scholar.google.com/citations?user=wzAvaU0AAAAJ&hl=en&oi=sra), ME Sorrells, [JL Jannink](https://scholar.google.com/citations?user=W2nZvQIAAAAJ&hl=en&oi=sra) - **Crop** Science, 2009 - dl.sciencesocieties.org
 
