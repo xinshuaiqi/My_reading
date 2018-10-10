@@ -28,11 +28,9 @@ results in random integration of new sequences into plant genomes.
 
 Regenerate plant from the transformed tissues. 
 
-
 * nonhomologous end joining (NHEJ)
 * homologous recombination (HR)
 	*  it requires simultaneous delivery of both the SSN and the repair template
-
 ```
 
 ### [Enabling plant synthetic biology through genome engineering](https://www.sciencedirect.com/science/article/pii/S0167779914002376)
@@ -125,3 +123,18 @@ WY Hwang, [Y Fu](https://scholar.google.com/citations?user=NDKarA0AAAAJ&hl=en&oi
 
 M Jinek, [A East](https://scholar.google.com/citations?user=PPqbvvUAAAAJ&hl=en&oi=sra), A Cheng, [S Lin](https://scholar.google.com/citations?user=95-e9ogAAAAJ&hl=en&oi=sra), E Ma, [J Doudna](https://scholar.google.com/citations?user=YO5XSXwAAAAJ&hl=en&oi=sra) - elife, 2013 - ncbi.nlm.nih.gov
 
+
+
+
+
+# Genome Design
+
+### [Programming biological operating systems: **genome design**, assembly and activation](https://www.nature.com/articles/nmeth.2894)
+
+DG Gibson - Nature methods, 2014 - nature.com
+
+
+
+### [Breeding by **design**](https://www.sciencedirect.com/science/article/pii/S1360138503001341)
+
+JD Peleman, JR Van der Voort - Trends in plant science, 2003 - Elsevier
