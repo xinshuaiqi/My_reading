@@ -35,3 +35,50 @@ F Tian, NM Stevens, [ES Buckler](https://scholar.google.com/citations?user=M7O1p
 ### [Whole-genome resequencing reveals loci under selection during chicken domestication](https://www.nature.com/articles/nature08832)
 
 CJ Rubin, MC Zody, J Eriksson, JRS Meadows… - Nature, 2010 - nature.com
+
+
+
+
+
+
+
+
+==========================
+
+ Recent selective sweeps in North American Drosophila melanogaster show signatures of soft sweeps
+NR Garud, PW Messer, EO Buzbas, DA Petrov - PLoS genetics, 2015 - journals.plos.org
+
+From <https://scholar.google.com/scholar?cluster=14129492631490978053&hl=en&as_sdt=0,26&sciodt=0,26> 
+
+
+https://nanditagarud.wordpress.com/selection-scan-scripts/
+
+
+
+Detection and classification of hard and soft sweeps from ... - bioRxiv
+https://www.biorxiv.org/content/biorxiv/early/2018/03/12/281063.full.pdf
+by AM Harris - ‎2018 - ‎Related articles
+
+From <https://www.google.com/search?q=H2%2FH1+selective+sweep&rlz=1C1GCEB_enUS796US796&oq=H2%2FH1+selective+sweep&aqs=chrome..69i57j69i58.8111j0j7&sourceid=chrome&ie=UTF-8&safe=active> 
+
+
+
+XL-CLR
+https://reich.hms.harvard.edu/software
+XP-CLR 1.0
+XP-CLR (Chen et al. 2010) uses allele frequency differentiation at linked loci to detect selective sweeps. Source code and documentation can be downloaded here. Please contact Hua Chen if you have questions about the software.
+
+From <https://reich.hms.harvard.edu/software> 
+
+
+
+Soft Sweeps Are the Dominant Mode of Adaptation in the Human ...
+https://academic.oup.com/mbe/article-pdf/34/8/1863/24367882/msx154.pdf
+by DR Schrider - ‎2017 - ‎Cited by 30 - ‎Related articles
+Daniel Schrider 
+From <https://www.google.com/search?q=H2/H1+selective+sweep&newwindow=1&safe=active&rlz=1C1GCEB_enUS796US796&ei=dG2_W9xGxZC1BanLpNgI&start=10&sa=N&biw=1920&bih=965> 
+
+shIC
+https://github.com/kern-lab/shIC
+diploSHIC
+https://github.com/kern-lab/diploSHIC
