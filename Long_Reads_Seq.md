@@ -543,3 +543,82 @@ https://mp.weixin.qq.com/s/Tq1y07KXz2tjWw7Ca2nv8A##
 3. [Large Genome Assembly with PacBio Long Reads](https://github.com/PacificBiosciences/Bioinformatics-Training/wiki/Large-Genome-Assembly-with-PacBio-Long-Reads)
 4. [Long read sequencing A/Prof Torsten Seemann ANGUS 2015 Workshop - KBS, Michigan, USA - Sat 15 Aug 2015 The good, the bad, and the really cool. ](https://angus.readthedocs.io/en/2016/_static/Torsten_Seemann_LRS.pdf)
 
+
+
+# Other
+
+### centromere 
+
+### [Inbreeding drives maize centromere evolution](http://www.pnas.org/content/early/2016/02/04/1522008113.short)
+
+KL Schneider, [Z Xie](https://scholar.google.com/citations?user=o7uuAEoAAAAJ&hl=en&oi=sra), TK Wolfgruber… - Proceedings of the …, 2016 - National Acad Sciences
+
+
+
+* epigenetically by the centromere-specific histone H3 variant cenH3 
+* long stretches of centromere-specific tandem DNA repeats (∼1.8 Mb in maize)
+
+
+
+Centromere-specific tandemly arranged DNA repeats vary in
+length and nucleotide sequence between species. 
+
+Functional centromeres of maize consist of 1–2 Mb of DNA
+
+
+
+### Telomere
+
+### [Telomere sequence localization and karyotype evolution in higher plants](https://link.springer.com/article/10.1007/BF00982962)
+
+J Fuchs, A Brandes, I Schubert - Plant Systematics and Evolution, 1995 - Springer
+
+(TTTAGGG)n  in 43 of 44 plant species, except Alliaceae
+
+```markdown
+**Centromeres** are responsible for the correct transmission of chromosome complements during mitosis and meiosis. 
+
+**Telomeres** prevent degradation of the ends of linear chromosomes
+by nucleases, illegitimate fusion of natural chromosome ends with each
+other or with artificial ends created by chromosome breaks, and shortening of linear
+DNA molecules due to incomplete replication at the 5 '-ends by DNA polymerases.
+
+```
+
+
+
+# Tools
+
+**TelSeq :**	is a software that estimates telomere length from whole genome sequencing data (BAMs).
+
+https://github.com/zd1/telseq
+
+### [Estimating telomere length from whole genome sequence data](https://academic.oup.com/nar/article-abstract/42/9/e75/1249448)
+
+[Z Ding](https://scholar.google.com/citations?user=nbIFJRAAAAAJ&hl=en&oi=sra), [M Mangino](https://scholar.google.com/citations?user=i0m7948AAAAJ&hl=en&oi=sra), A Aviv… - Nucleic acids …, 2014 - academic.oup.com
+
+
+
+**Computel :** Compute mean telomere length from Whole Genome Sequencing data. 
+
+https://github.com/lilit-nersisyan/computel
+
+
+
+More : https://github.com/search?q=telomere
+
+
+
+**centromere_seeker**
+
+https://github.com/cryancampbell/centromere_seeker
+
+bash script to search for centromeric repeat patterns in PacBio data, using several current tools (trf and R)
+
+**GossypiumCentromeres**
+
+https://github.com/remkv6/GossypiumCentromeres
+
+
+
+More : https://github.com/search?q=centromere

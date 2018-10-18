@@ -1,5 +1,13 @@
 # Crop Genomics
 
+### [Demography and its effects on genomic variation in crop domestication](https://www.nature.com/articles/s41477-018-0210-1)
+
+[BS Gaut](https://scholar.google.com/citations?user=1nr7TU0AAAAJ&hl=en&oi=sra), [DK Seymour](https://scholar.google.com/citations?user=1nubCLAAAAAJ&hl=en&oi=sra), Q Liu, [Y Zhou](https://scholar.google.com/citations?user=GLvvTpsAAAAJ&hl=en&oi=sra) - Nature plants, 2018 - nature.com
+
+
+
+
+
 
 
 
