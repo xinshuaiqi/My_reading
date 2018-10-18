@@ -8,6 +8,22 @@
 
 # Genome editing crop
 
+### [Genome editing technologies and their applications in crop improvement](https://link.springer.com/article/10.1007/s11816-018-0472-0)
+
+[R Mishra](https://scholar.google.com/citations?user=Pi0Y25gAAAAJ&hl=en&oi=sra), K Zhao - Plant Biotechnology Reports, 2018 - Springer
+
+
+
+### [Genome editing in plants: an overview of tools and applications](https://www.hindawi.com/journals/ija/2017/7315351/abs/)
+
+VS Kamburova, EV Nikitina, SE Shermatov… - International Journal of …, 2017 - hindawi.com
+
+
+
+### [Genome editing of plants](https://www.tandfonline.com/doi/abs/10.1080/07352689.2017.1281663)
+
+DD Songstad, JF Petolino, DF Voytas… - Critical Reviews in …, 2017 - Taylor & Francis
+
 
 
 ### [Towards social acceptance of plant breeding by **genome editing **](https://www.sciencedirect.com/science/article/pii/S1360138515000291) @@

@@ -305,87 +305,87 @@ RK Varshney, VK Singh, JM Hickey, X Xun… - Trends in **plant** …, 2016 - Els
 
 [qxs onenote](https://monsanto365-my.sharepoint.com/personal/evrpa_monsanto_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fevrpa_monsanto_com%2FDocuments%2FXINSHUAI%20%40%20Monsanto&wd=target%28Genomics%20Working%20group%20meeting.one%7C05470CAA-18C0-4D43-99B2-C4C53CCD1112%2FLong%20Reads%20Papers%7CB778F283-E755-476C-849C-A040F6E98E9F%2F%29)
 
-1. [**Piercing the dark matter: bioinformatics of  long-range sequencing and mapping**](https://www.nature.com/articles/s41576-018-0003-4?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrg%2Frss%2Fcurrent+%28Nature+Reviews+Genetics+-+Issue%29)
+##### [*Piercing the dark matter: bioinformatics of  long-range sequencing and mapping**](https://www.nature.com/articles/s41576-018-0003-4?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrg%2Frss%2Fcurrent+%28Nature+Reviews+Genetics+-+Issue%29)
 
-   ```markdown
-   Note:
-   	• High quality:
-   		○ Contiguity
-   		○ Completeness
-   		○ Correctness
-   	• Advantage of high quality:
-   		○ Annotation gene and regulatorary region
-   		○ Cis and trans regulation 
-   		○ Synteny blocks
-   		○ SV
-   		○ Repeats
-   ? Explains of the algorithm of long reads assembly
-   	• Error corection
-   		○ Self correct
-   		○ Illumina correct
-   ? Why align short to long can be unreliable?
-   
-   Falcon unzip 可以生成 phased genome, do we need that?
-   	• Miniasm: 10 X faster, but poor…
-   
-   Polish:
-   	• Quiver/Arrow for Pacbio
-   	• Nanopolish for Nanopore
-   	• Pilon for short->long
-   
-   	• Short polish long reads
-   		○ 20% error => <0.1%
-   		○ Homopolymer/repeats are hard to correct. Because short reads cannot be confidently aligned. 
-   ？没有详细的比较这些软件的性能差异
-   比如所需要的时间，，，，
-   
-   10X genome : phased genome
-   Hi-C: for scaffolding and phasing
-   BioNano: SV and scaffolding
-    
-   使用三代测序update的基因组
-   	· maize 15
-   	· fruit fly 16
-   	· mosquito 12
-    
-   De novo assembly quality: 24,25
-   	· high contiguity: N50
-   	· high completeness: % genome, % of genes
-   	· correctness: base accuracy and structural accuracy
-    
-   质量够好了，下游：comparative genomics
-   annotation: 
-   	· genes, regulatory sequences
-   	· reference mapping
-   	· cis- trans-
-   	· synteny blocks
-    
-   Canu： MHAP approach
-   FALCON, MARVEL : DALIGNER approach
-    
-   FALCON- Unzip that runs after the ini
-   tialcontigs are assembled to create a phased assembly
-   for diploid samples.
-    
-   Correct reads errors
-   	· Quiver
-   	· Arrow
-   	· Nanopolish
-   	· Pilon
-   	
-   de novo assembly,SV detection and phasing, are highly interrelated
-   to each other and must be addressed at the same time to produce the best results.
-   
-   # 中文翻译 
-   Nature Reviews|突破黑暗——长片段测序技术的应用优势及其生物信息学算法
-   https://mp.weixin.qq.com/s/Tq1y07KXz2tjWw7Ca2nv8A##
-   ```
+```markdown
+Note:
+	• High quality:
+		○ Contiguity
+		○ Completeness
+		○ Correctness
+	• Advantage of high quality:
+		○ Annotation gene and regulatorary region
+		○ Cis and trans regulation 
+		○ Synteny blocks
+		○ SV
+		○ Repeats
+? Explains of the algorithm of long reads assembly
+	• Error corection
+		○ Self correct
+		○ Illumina correct
+? Why align short to long can be unreliable?
 
-2. [Improved **maize reference genome** with single-molecule technologies](https://www.nature.com/articles/nature22971?sf88114573=1)
+Falcon unzip 可以生成 phased genome, do we need that?
+	• Miniasm: 10 X faster, but poor…
 
-3. [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315)
+Polish:
+	• Quiver/Arrow for Pacbio
+	• Nanopolish for Nanopore
+	• Pilon for short->long
 
-4. [A field guide to whole-genome sequencing, assembly and annotation](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231593/> ) 2014
+	• Short polish long reads
+		○ 20% error => <0.1%
+		○ Homopolymer/repeats are hard to correct. Because short reads cannot be confidently aligned. 
+？没有详细的比较这些软件的性能差异
+比如所需要的时间，，，，
+
+10X genome : phased genome
+Hi-C: for scaffolding and phasing
+BioNano: SV and scaffolding
+ 
+使用三代测序update的基因组
+	· maize 15
+	· fruit fly 16
+	· mosquito 12
+ 
+De novo assembly quality: 24,25
+	· high contiguity: N50
+	· high completeness: % genome, % of genes
+	· correctness: base accuracy and structural accuracy
+ 
+质量够好了，下游：comparative genomics
+annotation: 
+	· genes, regulatory sequences
+	· reference mapping
+	· cis- trans-
+	· synteny blocks
+ 
+Canu： MHAP approach
+FALCON, MARVEL : DALIGNER approach
+ 
+FALCON- Unzip that runs after the ini
+tialcontigs are assembled to create a phased assembly
+for diploid samples.
+ 
+Correct reads errors
+	· Quiver
+	· Arrow
+	· Nanopolish
+	· Pilon
+	
+de novo assembly,SV detection and phasing, are highly interrelated
+to each other and must be addressed at the same time to produce the best results.
+
+# 中文翻译 
+Nature Reviews|突破黑暗——长片段测序技术的应用优势及其生物信息学算法
+https://mp.weixin.qq.com/s/Tq1y07KXz2tjWw7Ca2nv8A##
+```
+
+1. [Improved **maize reference genome** with single-molecule technologies](https://www.nature.com/articles/nature22971?sf88114573=1)
+
+2. [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315)
+
+3. [A field guide to whole-genome sequencing, assembly and annotation](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231593/> ) 2014
 
    ```markdown
    Not True Genome
@@ -440,7 +440,7 @@ RK Varshney, VK Singh, JM Hickey, X Xun… - Trends in **plant** …, 2016 - Els
    
    ```
 
-5. [Ten steps to get started in Genome Assembly and Annotation F1000](<https://f1000research.com/articles/7-148> )
+4. [Ten steps to get started in Genome Assembly and Annotation F1000](<https://f1000research.com/articles/7-148> )
 
    ```markdown
    	· annotation:
