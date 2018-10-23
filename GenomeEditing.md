@@ -1,8 +1,16 @@
-# Genome Editing 
+# 
 
 [TOC]
 
 
+
+
+
+# Genome Editing 
+
+### [**Genome**-wide **prediction** of highly specific guide RNA spacers for CRISPR–Cas9-mediated **genome** editing in model plants and major **crops**](http://www.cell.com/molecular-plant/abstract/S1674-2052(14)60793-0)
+
+K Xie, [J Zhang](https://scholar.google.com/citations?user=LbvoiHoAAAAJ&hl=en&oi=sra), [Y Yang](https://scholar.google.com/citations?user=Rgvd2Q8AAAAJ&hl=en&oi=sra) - Molecular plant, 2014 - cell.com
 
 
 
@@ -48,6 +56,8 @@ Regenerate plant from the transformed tissues.
 * homologous recombination (HR)
 	*  it requires simultaneous delivery of both the SSN and the repair template
 ```
+
+
 
 ### [Enabling plant synthetic biology through genome engineering](https://www.sciencedirect.com/science/article/pii/S0167779914002376)
 

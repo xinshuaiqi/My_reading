@@ -593,15 +593,54 @@ DNA molecules due to incomplete replication at the 5 '-ends by DNA polymerases.
 
 https://github.com/zd1/telseq
 
-### [Estimating telomere length from whole genome sequence data](https://academic.oup.com/nar/article-abstract/42/9/e75/1249448)
+
+
+[paper： Estimating telomere length from whole genome sequence data](https://academic.oup.com/nar/article-abstract/42/9/e75/1249448)
 
 [Z Ding](https://scholar.google.com/citations?user=nbIFJRAAAAAJ&hl=en&oi=sra), [M Mangino](https://scholar.google.com/citations?user=i0m7948AAAAJ&hl=en&oi=sra), A Aviv… - Nucleic acids …, 2014 - academic.oup.com
+
+```markdown
+Telomeres cap the ends of chromosomes 
+
+In humans, telomeres comprise sequences of 5–15 kb TTAGGG tandem repeats and their telomere binding proteins
+
+telomere length is an indicator of replicative history and replicative potential
+
+
+**telomere length measurement:**
+* Southern blot
+* FISH...
+* qPCR
+
+Now, NGS, here:
+1. 100 bp pairend Illumina
+2. 75 human, 27-74 years
+examine the relationship between reads containing telomere repeat sequence and telomere length
+
+
+
+
+
+```
+
+
+
+
 
 
 
 **Computel :** Compute mean telomere length from Whole Genome Sequencing data. 
 
 https://github.com/lilit-nersisyan/computel
+
+```markdown
+R based 
+mean telomere length
+and abundance 
+NGS
+
+
+```
 
 
 
@@ -622,3 +661,90 @@ https://github.com/remkv6/GossypiumCentromeres
 
 
 More : https://github.com/search?q=centromere
+
+
+
+TRF: tandem repeat finder
+
+https://tandem.bu.edu/trf/trfdesc.html
+
+
+
+# telomere and centromere in B73 V4
+
+https://www.nature.com/articles/nature22971/figures/6
+
+
+
+[Inbreeding drives maize centromere evolution](http://www.pnas.org/content/early/2016/02/04/1522008113.short)
+
+KL Schneider, [Z Xie](https://scholar.google.com/citations?user=o7uuAEoAAAAJ&hl=en&oi=sra), TK Wolfgruber… - Proceedings of the …, 2016 - National Acad Sciences
+
+
+
+[Stable patterns of CENH3 occupancy through maize lineages containing genetically similar centromeres](http://www.genetics.org/content/early/2015/06/10/genetics.115.177360.short)
+
+JI Gent, K Wang, [J Jiang](https://scholar.google.com/citations?user=vIM8IBoAAAAJ&hl=en&oi=sra), RK Dawe - Genetics, 2015 - Genetics Soc America
+
+
+
+### [ Plant centromeres](https://www.sciencedirect.com/science/article/pii/S1369526616302266)
+
+[L Comai](https://scholar.google.com/citations?user=ZvmgIoEAAAAJ&hl=en&oi=sra), [S Maheshwari](https://scholar.google.com/citations?user=FFO1_2YAAAAJ&hl=en&oi=sra), [MPA Marimuthu](https://scholar.google.com/citations?user=XEwlUgsAAAAJ&hl=en&oi=sra) - Current opinion in plant biology, 2017 - Elsevier
+
+```markdown
+determined epigenetically bycentromeric histone 3 (CENH3) 
+
+Normallystable, centromeres can change position over evolutionarytimes or upon genomic stress, such as when chromosomesare brok en
+
+Centromeres are regions on dividing chromosomes thatbind spindle microtubules
+
+** The deﬁnition of an active centromere is based onCENH3 localization.**
+
+kinetochore 着丝粒
+DNA + CENH3 + outer kinetochore complex
+
+
+
+
+```
+
+
+
+# Lynch *The origin of genome architecture, chap 5*
+
+* centromere lengths increased with the trasition from unicellularity to multicellularity 
+  * repetitive DNA families 
+  * accumulation of TEs.
+* the boundary between centromeric and noncentromeric regions is by no mean abrupt
+
+
+
+
+
+More reading
+
+### [A molecular view of **plant centromeres**](https://www.sciencedirect.com/science/article/pii/S1360138503002747)
+
+[J Jiang](https://scholar.google.com/citations?user=vIM8IBoAAAAJ&hl=en&oi=sra), [JA Birchler](https://scholar.google.com/citations?user=MTM2HVQAAAAJ&hl=en&oi=sra), [WA Parrott](https://scholar.google.com/citations?user=H-hpEucAAAAJ&hl=en&oi=sra), RK Dawe - Trends in **plant** science, 2003 - Elsevier
+
+
+
+### [ **Plant centromeres**](https://www.sciencedirect.com/science/article/pii/S1369526616302266)
+
+[L Comai](https://scholar.google.com/citations?user=ZvmgIoEAAAAJ&hl=en&oi=sra), [S Maheshwari](https://scholar.google.com/citations?user=FFO1_2YAAAAJ&hl=en&oi=sra), [MPA Marimuthu](https://scholar.google.com/citations?user=XEwlUgsAAAAJ&hl=en&oi=sra) - Current opinion in **plant** biology, 2017 - Elsevier
+
+
+
+### [**Plant centromeres**: genetics, epigenetics and evolution](https://link.springer.com/article/10.1007/s11033-018-4284-7)
+
+LC Oliveira, GA Torres - Molecular biology reports, 2018 - Springer
+
+
+
+
+
+
+
+
+
