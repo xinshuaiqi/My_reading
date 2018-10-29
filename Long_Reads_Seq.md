@@ -688,6 +688,69 @@ JI Gent, K Wang, [J Jiang](https://scholar.google.com/citations?user=vIM8IBoAAAA
 
 
 
+### [Widespread gene conversion in centromere cores](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000327)
+
+J Shi, SE Wolf, [JM Burke](https://scholar.google.com/citations?user=fe5GDukAAAAJ&hl=en&oi=sra), GG Presting… - PLoS …, 2010 - journals.plos.org
+
+
+
+### [A molecular view of plant centromeres](https://www.sciencedirect.com/science/article/pii/S1360138503002747)
+
+[J Jiang](https://scholar.google.com/citations?user=vIM8IBoAAAAJ&hl=en&oi=sra), [JA Birchler](https://scholar.google.com/citations?user=MTM2HVQAAAAJ&hl=en&oi=sra), [WA Parrott](https://scholar.google.com/citations?user=H-hpEucAAAAJ&hl=en&oi=sra), RK Dawe - Trends in plant science, 2003 - Elsevier
+
+
+
+### [**Plant centromeres**: genetics, epigenetics and evolution](https://link.springer.com/article/10.1007/s11033-018-4284-7)
+
+LC Oliveira, GA Torres - Molecular biology reports, 2018 - Springer
+
+```markdown
+The centromeres of higher eukaryotes have conserved kinetochore proteins
+
+Centromeres are usually composed by satellite repeats and retrotransposons 
+
+the sequences can differ even among closely related species
+
+Some unusual configurations containing single copy DNA
+
+spanning several megabases of the chromosome 
+
+The centromeric DNA evolves rapidly and has little similarity among species
+
+The difference between the canonical histone H3 and CenH3 is the presence in the latter of an N-terminal tail that is highly divergent with respect to the length and composition, even among closely related organisms, been species-specific in some cases
+
+Cytogenetic analyses have shown that centromeres eventually adopt new positions in the chromosomes, an event called repositioning. The centromere in this new location is referred as evolutionary new centromeres or neocentromeres
+
+
+
+Type: 
+* point centromere: very small, a small kinetochore
+* holocentrics: dispersed centromere
+* monocentric chromosomes :in one region
+* meta-polycentric: 
+
+ **In S. tuberosum L. (cultivated potato) each of the 12 centromeres have a different genetic composition from the other ones. **
+Other plant species which also have multiple repeats associated with different centromeres are pea (Pisum sativum L.) [8] and bean (Phaseolus vulgaris L.) [39]. 
+
+
+the size of centromeric repeats:
+in most of the studied plant species, they are around 150–180 bp long.
+
+long terminal repeats (LTR) retrotransposons accumulate quite often in centromeres and pericentromeres in plants and animals
+
+# Origin and evolution
+
+
+```
+
+**![Fig. 1](https://media.springernature.com/lw785/springer-static/image/art%3A10.1007%2Fs11033-018-4284-7/MediaObjects/11033_2018_4284_Fig1_HTML.gif)**
+
+
+
+
+
+
+
 ### [ Plant centromeres](https://www.sciencedirect.com/science/article/pii/S1369526616302266)
 
 [L Comai](https://scholar.google.com/citations?user=ZvmgIoEAAAAJ&hl=en&oi=sra), [S Maheshwari](https://scholar.google.com/citations?user=FFO1_2YAAAAJ&hl=en&oi=sra), [MPA Marimuthu](https://scholar.google.com/citations?user=XEwlUgsAAAAJ&hl=en&oi=sra) - Current opinion in plant biology, 2017 - Elsevier
@@ -705,9 +768,105 @@ kinetochore 着丝粒
 DNA + CENH3 + outer kinetochore complex
 
 
+Most centromeres are enriched for DNA repeats ranging in size from 100 to 1000 bp [16]. 
+
+
+
 
 
 ```
+
+
+
+### [Comparative analysis of tandem repeats from hundreds of species reveals unique insights into centromere evolution](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-r10)
+
+[DP Melters](https://scholar.google.com/citations?user=BZLjcO8AAAAJ&hl=en&oi=sra), [KR Bradnam](https://scholar.google.com/citations?user=0D3JtBAAAAAJ&hl=en&oi=sra)… - Genome …, 2013 - genomebiology.biomedcentral.com
+
+
+
+http://korflab.ucdavis.edu/Datasets/Centromere_data/
+
+Appendix 1 
+
+https://static-content.springer.com/esm/art%3A10.1186%2Fgb-2013-14-1-r10/MediaObjects/13059_2012_3048_MOESM1_ESM.PDF
+
+
+
+> The remaining sequences were analyzed by TRF [[50](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-r10#CR50)] to identify tandem repeats. We assumed that candidate centromeric tandem repeat arrays should be continuous and occupy the majority - if not all - of any individual read.```
+
+> the presence of tandem repeats, and their extremely high repeat abundance (often >10,000 copies per chromosome).
+>
+> Therefore, we hypothesized that the most abundant tandem repeat in a given genome would be the prime candidate for the centromere repeat 
+>
+>
+
+ ![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fgb-2013-14-1-r10/MediaObjects/13059_2012_Article_3048_Fig1_HTML.jpg)
+
+```
+>zea_mays
+CTTTAGGTCCAAAACTCATGTTTGGGGTGATTTCGCGCAATTTCGTTGCCGCACGTCACC
+CATTCCGAAAACGGGTATCGGGGTGCATACAAAGCACGAGTTTTTGCCACCGGAACAATT
+TCTTCGTTTTTCGCAACGAACATGCCCAATCCACTA
+
+>glycine_max
+TCACTCGGATGTCCGATTCAGGCGCATAATATATCGAGACGCTCGAAATTGAACAACGGA
+AGCTCTCGAGAAATTCAAATGATCATAACTTT
+
+>gossypium_raimondii
+TTAGGGAGATAAGATCTACAATCTTCAACCTACTCCACTGCTGCTCAGGGAGATAGGACT
+GGTGGCTTAAATCTGCTTCCTACTATCTCGGGAAGATAAGATTCGCCGTCTTCGATCTGC
+TCCACTACTGC
+
+>brassica_oleracea
+TCTCCACTACTTTATGTATCCAAATACAGCTTCTTACATCGCGATTCATCCTGGTTTGAT
+CAGAATGACGAGGAAGTTGTCATATTCCCAAACAGGAAAACTGGGATCACCTGATTTGAA
+AGTGGGATAACTTCTTCATCCTAACTCCTATGAGATTTATTCAACTTCCTGGTGAT
+```
+
+
+
+# Alpha-CENTAURI: assessing novel centromeric repeat sequence variation with long read sequencing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27153570
+
+http://github.com/volkansevim/alpha-CENTAURI 
+
+
+
+
+
+[Tandem Repeats Database](http://tandem.bu.edu/cgi-bin/trdb/trdb.exe?taskid=0)
+
+[Tandom Repeats Finder](https://tandem.bu.edu/trf/trf.html)
+
+```
+Error Message.
+
+A system error occurred. Please go back
+and try to submit your data again.
+Error at line 132: can't rename upload file old name new name 41DGFQfU0s4Zc
+If this error persists
+send an email message to yhernand@bu.edu.
+```
+
+
+
+### A bioinformatics approach to identify telomere sequences ...
+
+https://www.future-science.com/doi/full/10.2144/btn-2018-0057
+
+```The telomere repeat motif (TTTAGGG)n, discovered in *Arabidopsis thaliana* [[5](https://www.future-science.com/doi/full/10.2144/btn-2018-0057#B5)], is considered to be the consensus telomere motif for most land plants [[6](https://www.future-science.com/doi/full/10.2144/btn-2018-0057#B6)]. 
+The telomere repeat motif (TTTAGGG)n, discovered in *Arabidopsis thaliana* [[5](https://www.future-science.com/doi/full/10.2144/btn-2018-0057#B5)], is considered to be the consensus telomere motif for most land plants [[6](https://www.future-science.com/doi/full/10.2144/btn-2018-0057#B6)]. 
+
+https://www.intechopen.com/books/the-mechanisms-of-dna-replication/telomeres-their-structure-and-maintenance
+
+```
+
+
+
+
+
+
 
 
 
@@ -722,23 +881,11 @@ DNA + CENH3 + outer kinetochore complex
 
 
 
-More reading
-
-### [A molecular view of **plant centromeres**](https://www.sciencedirect.com/science/article/pii/S1360138503002747)
-
-[J Jiang](https://scholar.google.com/citations?user=vIM8IBoAAAAJ&hl=en&oi=sra), [JA Birchler](https://scholar.google.com/citations?user=MTM2HVQAAAAJ&hl=en&oi=sra), [WA Parrott](https://scholar.google.com/citations?user=H-hpEucAAAAJ&hl=en&oi=sra), RK Dawe - Trends in **plant** science, 2003 - Elsevier
+ 
 
 
 
-### [ **Plant centromeres**](https://www.sciencedirect.com/science/article/pii/S1369526616302266)
 
-[L Comai](https://scholar.google.com/citations?user=ZvmgIoEAAAAJ&hl=en&oi=sra), [S Maheshwari](https://scholar.google.com/citations?user=FFO1_2YAAAAJ&hl=en&oi=sra), [MPA Marimuthu](https://scholar.google.com/citations?user=XEwlUgsAAAAJ&hl=en&oi=sra) - Current opinion in **plant** biology, 2017 - Elsevier
-
-
-
-### [**Plant centromeres**: genetics, epigenetics and evolution](https://link.springer.com/article/10.1007/s11033-018-4284-7)
-
-LC Oliveira, GA Torres - Molecular biology reports, 2018 - Springer
 
 
 
