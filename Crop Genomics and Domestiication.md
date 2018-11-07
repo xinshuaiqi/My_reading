@@ -205,3 +205,85 @@ in crops more rewarding and less costly than in humans.
 
 ```
 
+# **Evolution and Crop Domestication**
+###### *This is a collection of links and webpages about this topic*
+Edited by *Xinshuai Qi* (qxs718@gmail.com)
+
+# Table of Contents
+- #### [Evolution](#evolution)
+- #### [Crop Domestication](#crop-domestication)
+- #### [Modern breeding and agriculture](modern-breeding-and-agriculture)
+- #### [Un-classified](#un-classified)
+- #### [Writing and Research](#writing-and-research)
+- #### [Useful Cheatsheet](#useful-cheatsheet)
+
+
+
+# Evolution
+- Modern Synthesis
+  - [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky)
+    - [Genetics and the Origin of Species](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species)
+  - [Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr)
+    - [Systematics and the Origin of Species](https://en.wikipedia.org/wiki/Systematics_and_the_Origin_of_Species)
+  - [G. Ledyard Stebbins](https://en.wikipedia.org/wiki/G._Ledyard_Stebbins)
+    - [Variation and Evolution in Plants](https://en.wikipedia.org/wiki/Variation_and_Evolution_in_Plants)
+  - [George Gaylord Simpson](https://en.wikipedia.org/wiki/George_Gaylord_Simpson)
+    - [Tempo and Mode in Evolution](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution)  
+
+
+- Books
+  [Evolution 4th Futuyma](https://evolution4e.sinauer.com/)   
+
+  []()  
+
+- links about Evolution    
+  [Haldane's Sieve](https://haldanessieve.org/)  
+  [Timeline of Evolutionary Thought](http://www.ucmp.berkeley.edu/history/evotmline.html)  
+  [Darwin Online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_OntheOriginofSpecies.html)
+
+
+# Crop Domestication
+[Domesticatoin](https://en.wikipedia.org/wiki/Domestication)  
+[List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)  
+[Vovilov Centers](https://en.wikipedia.org/wiki/Center_of_origin)   
+[Crop Wild Relative](https://en.wikipedia.org/wiki/Crop_wild_relative)  
+
+
+[Origin of Major Crops (download a map in PDF)](https://cgspace.cgiar.org/bitstream/handle/10568/75665/PRINT_origin-species-world-map-v9_hires_poster%20EN.pdf?sequence=1&isAllowed=y)  
+[CropPhylogeny by production -- by Dan Chitwood](http://danchitwood.github.io/CropPhylogeny/)
+
+# Modern Breeding and Agriculture
+[History of Agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
+[Nikolai Vavilov](https://en.wikipedia.org/wiki/Nikolai_Vavilov)
+
+[Green Revolution](https://en.wikipedia.org/wiki/Green_Revolution)
+  - [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug)
+
+[plant Breeding](https://en.wikipedia.org/wiki/Plant_breeding)
+  - [Molecular breeding](https://en.wikipedia.org/wiki/Molecular_breeding)
+
+[Association mapping in structured populations](/association-mapping-in-structured-populations.md)
+
+
+
+[Tucson Plant Breeding Institute](http://www.plantbreedinginstitute.bio5.org/)
+
+Books  
+[The Variation of Animals and Plants under Domestication *-by Darwin*](https://en.wikipedia.org/wiki/The_Variation_of_Animals_and_Plants_under_Domestication)   
+
+Courses:  
+- [Quantitative Genetics Resources         -by Bruce Walsh, U of Arizona](http://nitro.biosci.arizona.edu/zbook/book.html)  
+- [Quantitative Genetics                   -by Xiwen Cai, NDSU](https://www.ndsu.edu/pubweb/~mcclean/plsc431/quantgen/index.htm)  
+- [Evolution of Crop Plants                -by Paul Gepts, UC Davis](http://www.plantsciences.ucdavis.edu/gepts/pb143/pb143.htm)  
+
+
+
+# Un-classified
+
+
+# Useful Cheatsheet
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+[Markdown4git](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+[Python 3](http://docs.pythontab.com/python/python3.4/)
